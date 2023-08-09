@@ -1,0 +1,62 @@
+.signup-container {
+    min-height: 95vh;
+    /* align-items: center; */
+    justify-content: center;
+    display: flex;
+    background-color: black;
+  }
+  
+  .signup-option {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .signup-create-account {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .LogoMain img {
+    width: 250px;
+    height: auto;
+  }
+  
+  .signupHeader {
+      font-size: 18px;
+      margin: 30px 0;
+      line-height: 27px;
+  }
+  
+  
+
+.LogoDiscription p {
+    font-size: 18px;
+    margin: 30px 0;
+    line-height: 27px;
+}
+.LogoMain img {
+    width: 250px;
+    height: auto;
+}
+.buttonsDiv p {
+    font-size: 18px;
+    margin: 15px 0;
+}
+.buttonsDiv button {
+    padding: 18px 25px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 500;
+    min-width: 235px;
+}
+button.newCustomer {
+    background: #f09e38;
+}
+button.FutureCustomer {
+    background: #b5d6e5;
+}
+
+.buttonsDiv {
+    padding: 20px 0;
+}

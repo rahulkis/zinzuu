@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "reg_date": "September 21, 2020",
+        "company_name": "Instagram",
+        "company_image": "/assets/img/nav-icon/gmail.png",
+        "address": "Address 1",
+        "phone": "123654",
+        "email": "abcyz@gmail.com",
+        "contact_person": "Mel",
+        "tax_id": "78965114123",
+        "t_and_c": "accepted",
+        "role":"VIP"
+    },
+    {
+        "id": 2,
+        "reg_date": "June 13, 2020",
+        "company_name": "Google",
+        "company_image": "/assets/img/nav-icon/hangout.png",
+        "address": "Address 1",
+        "phone": "123654",
+        "email": "defvu@gmail.com",
+        "contact_person": "Moore",
+        "tax_id": "78965124123",
+        "t_and_c": "accepted",
+        "role":"SP"
+    },
+    {
+        "id": 3,
+        "reg_date": "May 17, 2020",
+        "company_name": "Books",
+        "company_image": "/assets/img/nav-icon/google.png",
+        "address": "Address 1",
+        "phone": "123654","nap": "7896512312",
+        "email": "gerryr@gmail.com",
+        "contact_person": "Gerry",
+        "tax_id": "789652132",
+        "t_and_c": "accepted",
+        "role":"RP"
+    },
+    {
+        "id": 4,
+        "reg_date": "April 14, 2020",
+        "company_name": "Gmail",
+        "company_image": "/assets/img/nav-icon/gmail.png",
+        "address": "Address 1",
+        "phone": "123654",
+        "email": "ger12@gmail.com",
+        "contact_person": "Garry",
+        "tax_id": "7896521212",
+        "t_and_c": "accepted",
+        "role":"MRP"
+    },
+    {
+        "id": 5,
+        "reg_date": "January 21, 2021",
+        "company_name": "Safari",
+        "company_image": "/assets/img/nav-icon/message.png",
+        "address": "Address 1",
+        "phone": "123654",
+        "email": "george@gmail.com",
+        "contact_person": "George",
+        "tax_id": "7896521212",
+        "t_and_c": "accepted",
+        "role":"AP"
+    },
+    {
+        "id": 6,
+        "reg_date": "April 21, 2020",
+        "company_name": "Google Maps",
+        "company_image": "/assets/img/nav-icon/message.png",
+        "address": "Address 1",
+        "phone": "123654",
+        "email": "mae@gmail.com",
+        "contact_person": "Mae",
+        "tax_id": "78965211212",
+        "t_and_c": "accepted",
+        "role":"AP1"
+    },
+    {
+        "id": 7,
+        "reg_date": "January 21, 2020",
+        "company_name": "Mail",
+        "company_image": "/assets/img/nav-icon/mail.png",
+        "address": "Address 1",
+        "phone": "123654",
+        "email": "tamirah@gmail.com",
+        "contact_person": "Tamirah",
+        "tax_id": "7896121322",
+        "t_and_c": "accepted",
+        "role":"AP2"
+    }
+]

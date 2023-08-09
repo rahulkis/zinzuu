@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "total": 59,
+        "date": "01 Jan"
+    },{
+        "id": 2,
+        "total": 72,
+        "date": "02 Jan"
+    },{
+        "id": 3,
+        "total": 66,
+        "date": "03 Jan"
+    },{
+        "id": 4,
+        "total": 55,
+        "date": "04 Jan"
+    },{
+        "id": 5,
+        "total": 40,
+        "date": "05 Jan"
+    },{
+        "id": 6,
+        "total": 28,
+        "date": "06 Jan"
+    },{
+        "id": 7,
+        "total": 36,
+        "date": "07 Jan"
+    },{
+        "id": 8,
+        "total": 44,
+        "date": "08 Jan"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "customer_name": "Customer 1",
+        "customer_email": "dc@gmail.com",
+        "total_purchase": "140",
+        "last_purchase": "140",
+        "profile_completion": 100,
+        "currency" : "$",
+        "date_join" : "February 20, 2021",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "customer_name": "Customer 2",
+        "customer_email": "gj@gmail.com",
+        "total_purchase": "0",
+        "last_purchase": "0",
+        "profile_completion": 20,
+        "currency" : "$",
+        "date_join" : "February 28, 2021",
+        "status": "Incomplete"
+    },
+    {
+        "id": 3,
+        "customer_name": "Customer 3",
+        "customer_email": "rp@gmail.com",
+        "total_purchase": "98.83",
+        "last_purchase": "98.83",
+        "profile_completion": 100,
+        "currency" : "$",
+        "date_join" : "March 11, 2021",
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "customer_name": "Customer 4",
+        "customer_email": "eb@gmail.com",
+        "total_purchase": "4.27",
+        "last_purchase": "4.27",
+        "profile_completion": 100,
+        "currency" : "$",
+        "date_join" : "March 12, 2021",
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "customer_name": "Customer 5",
+        "customer_email": "do@gmail.com",
+        "total_purchase": "87.55",
+        "last_purchase": "87.55",
+        "profile_completion": 100,
+        "currency" : "$",
+        "date_join" : "March 13, 2021",
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "customer_name": "Customer 6",
+        "customer_email": "jb@gmail.com",
+        "total_purchase": "87.42",
+        "last_purchase": "87.42",
+        "profile_completion": 100,
+        "currency" : "$",
+        "date_join" : "March 13, 2021",
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "customer_name": "Customer 7",
+        "customer_email": "asq@gmail.com",
+        "total_purchase": "33.14",
+        "last_purchase": "33.14",
+        "profile_completion": 100,
+        "currency" : "$",
+        "date_join" : "March 16, 2021",
+        "status": "Active"
+    },
+    {
+        "id": 8,
+        "customer_name": "Customer 8",
+        "customer_email": "112@gmail.com",
+        "total_purchase": "87.99",
+        "last_purchase": "87.99",
+        "profile_completion": 100,
+        "currency" : "$",
+        "date_join" : "March 16, 2021",
+        "status": "Active"
+    }
+]
